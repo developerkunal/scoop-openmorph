@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/developerkunal/OpenMorph/releases/download/v0.1.0/openmorph_0.1.0_windows_amd64.tar.gz",
+            "url": "https://github.com/developerkunal/OpenMorph/releases/download/v0.2.0/openmorph_0.2.0_windows_amd64.tar.gz",
             "bin": [
                 "openmorph.exe"
             ],
-            "hash": "065097c13d3a2c0099d0ec72ab78384f8eb86c2f5dc7e853dbcb6bf4e1ca1491"
+            "hash": "068efc1a69a00dd4417ee828780e06244128d8ca093283f3d35611814ec4588e"
         },
         "arm64": {
-            "url": "https://github.com/developerkunal/OpenMorph/releases/download/v0.1.0/openmorph_0.1.0_windows_arm64.tar.gz",
+            "url": "https://github.com/developerkunal/OpenMorph/releases/download/v0.2.0/openmorph_0.2.0_windows_arm64.tar.gz",
             "bin": [
                 "openmorph.exe"
             ],
-            "hash": "6b397dc89ec21a7134dc98503a3933d3e1b1c7cb592fad7e707737e933b52437"
+            "hash": "3e98f6b09f233c082b765b6d8f380252702feabed25e36eb7adb4a7d3156a355"
         }
     },
     "homepage": "https://github.com/developerkunal/OpenMorph",
