@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/developerkunal/OpenMorph/releases/download/v0.1.0/openmorph_0.1.0_windows_amd64.tar.gz",
+            "bin": [
+                "openmorph.exe"
+            ],
+            "hash": "065097c13d3a2c0099d0ec72ab78384f8eb86c2f5dc7e853dbcb6bf4e1ca1491"
+        },
+        "arm64": {
+            "url": "https://github.com/developerkunal/OpenMorph/releases/download/v0.1.0/openmorph_0.1.0_windows_arm64.tar.gz",
+            "bin": [
+                "openmorph.exe"
+            ],
+            "hash": "6b397dc89ec21a7134dc98503a3933d3e1b1c7cb592fad7e707737e933b52437"
+        }
+    },
+    "homepage": "https://github.com/developerkunal/OpenMorph",
+    "license": "MIT",
+    "description": "A tool for transforming and optimizing OpenAPI specifications"
+}
